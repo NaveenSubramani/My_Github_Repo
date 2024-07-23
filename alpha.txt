@@ -1,1 +1,5 @@
-beta gamma delta
+<<<<<<< HEAD
+alpha beta gamma
+=======
+alpha beta gamma
+>>>>>>> 51dcb81 (Updated alpha.txt from Repo B)
